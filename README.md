@@ -1,2 +1,2 @@
-# COVID-19-tracker-app
+# COVID-19 Tracker App
 Spring Boot : Web Application
