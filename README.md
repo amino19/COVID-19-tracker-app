@@ -8,5 +8,5 @@ _Preview [initial] :-_
   <img width="49.5%" src="https://user-images.githubusercontent.com/75872316/121749297-0d778880-cb28-11eb-8e11-5d9213463ef4.png"/>
 </p>
 
-Resources from <a href="https://github.com/koushikkothagal/coronavirus-tracker">here</a>;
+Resources from <a href="https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data">here</a>;
 Thanks @CSSEGISandData !!
