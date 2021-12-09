@@ -1,7 +1,5 @@
-<h1 align="center" style="font-weight:bold"> COVID-19 Tracker App</h1>
-<p align="center"><b>Spring Boot : Web Application<b></p>
-<br>
-<br>
+<img src="https://socialify.git.ci/amino19/covid19-tracker/image?description=1&font=Raleway&owner=1&pattern=Circuit%20Board&theme=Dark" alt="amino19/covid19-tracker" width="1040" height="320" />
+
 <div align="center">
 <a href="https://github.com/amino19/covid19-tracker"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
 
@@ -24,14 +22,12 @@
 
 <h1 align="center" style="font-weight:bold">Project Description</h1>
 <p align="center">
-In the year 2020- 2021 we all have faced the pandemic of Covid-19, so we have created the covid-19 tracker web app which counts the number of covid-19 cases in the world. It is an web app based on Spring Boot Framework. To create an App we have taken use of this<a href="https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data"> API </a>, which contains daily case reports. 
+In the year 2020- 2021, we'd faced the pandemic of Covid-19, so came up with an idea to create the covid-19 tracker web application which will counts the number of covid-19 cases in the world. It is an web app based on Spring Boot Framework, using <a href="https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data"> CSSEGISandData/COVID-19 </a> API, which provides daily corona virus case reports globally. 
 </p>
 
-<h1 align="center" style="font-weight:bold">Web Interface</h1>
-<p align="center">
+<h2 align="center" style="font-weight:bold">Interfaces</h1>
+<p>
   <img width="49.5%" src="https://user-images.githubusercontent.com/75872316/121746758-fc2c7d00-cb23-11eb-8c36-79f6b4211b50.png" />
-</p>
-<p align="center">
   <img width="49.5%" src="https://user-images.githubusercontent.com/75872316/121749297-0d778880-cb28-11eb-8e11-5d9213463ef4.png"/>
 </p>
 
@@ -142,8 +138,12 @@ git remote -v
 <p align="center">
 We're thanking all the amazing cotributors for their time & efforts.
 </p>
-
-
+<p align="center">
+<a href="https://github.com/amino19/covid19-tracker/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=amino19/covid19-tracker" />
+</a>
+</p>
+  
 <h1 align="center" style="font-weight:bold"> License</h1>
 <p align="center">
 <a href="https://github.com/amino19/covid19-tracker/blob/master/LICENSE"></p>
