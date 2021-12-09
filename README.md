@@ -3,13 +3,13 @@
 <div align="center">
 <a href="https://github.com/amino19/covid19-tracker"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
 
-<a href="https://github.com/amino19/covid19-tracker/watchers"><img src="https://img.shields.io/github/watchers/felixfaisal/formica?style=flat"></a> 
+<a href="https://github.com/amino19/covid19-tracker/watchers"><img src="https://img.shields.io/github/watchers/amino19/covid19-tracker?style=flat"></a> 
 <a href="https://github.com/amino19/covid19-tracker/graphs/contributors"><img src="https://img.shields.io/github/contributors/felixfaisal/formica?color=brightgreen"></a>
-<a href="https://github.com/amino19/covid19-tracker/stargazers"><img src="https://img.shields.io/github/stars/felixfaisal/formica?color=0059b3"></a>
-<a href="https://github.com/amino19/covid19-tracker/network/members"><img src="https://img.shields.io/github/forks/felixfaisal/formica?color=yellow"></a>
-<a href="https://github.com/amino19/covid19-tracker/issues"><img src="https://img.shields.io/github/issues/felixfaisal/formica?color=0059b3"></a>
-<a href="https://github.com/amino19/covid19-tracker/pulls"><img src="https://img.shields.io/github/issues-pr/felixfaisal/formica?color=brightgreen"></a>
-<a href="https://github.com/amino19/covid19-tracker/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/felixfaisal/formica?color=0059b3"></a> 
+<a href="https://github.com/amino19/covid19-tracker/stargazers"><img src="https://img.shields.io/github/stars/amino19/covid19-tracker?color=0059b3"></a>
+<a href="https://github.com/amino19/covid19-tracker/network/members"><img src="https://img.shields.io/github/forks/amino19/covid19-tracker?color=yellow"></a>
+<a href="https://github.com/amino19/covid19-tracker/issues"><img src="https://img.shields.io/github/issues/amino19/covid19-tracker?color=0059b3"></a>
+<a href="https://github.com/amino19/covid19-tracker/pulls"><img src="https://img.shields.io/github/issues-pr/amino19/covid19-tracker?color=brightgreen"></a>
+<a href="https://github.com/amino19/covid19-tracker/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/amino19/covid19-tracker?color=0059b3"></a> 
 </div>
 <br>
 
